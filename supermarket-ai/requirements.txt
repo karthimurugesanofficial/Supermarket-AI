@@ -1,0 +1,8 @@
+flask
+requests
+pandas
+python-dotenv
+twilio
+sentence-transformers
+faiss-cpu
+gunicorn

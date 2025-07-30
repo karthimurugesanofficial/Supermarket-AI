@@ -1,0 +1,101 @@
+product_id,product_name,brand,quantity,price,availability,category
+1,Lays Snacks Product 1,Lays,250ml,221,no,Snacks
+2,Green Valley Fruits Product 2,Green Valley,1L,361,yes,Fruits
+3,Lays Snacks Product 3,Lays,100g,28,yes,Snacks
+4,Harpic Household Product 4,Harpic,1L,444,yes,Household
+5,Kurkure Snacks Product 5,Kurkure,500g,127,yes,Snacks
+6,Nestle Dairy Product 6,Nestle,100g,329,yes,Dairy
+7,Green Valley Fruits Product 7,Green Valley,1kg,81,no,Fruits
+8,Lifebuoy Personal Care Product 8,Lifebuoy,1L,58,no,Personal Care
+9,Harvest Bakery Product 9,Harvest,100g,290,yes,Bakery
+10,Green Valley Fruits Product 10,Green Valley,1kg,29,yes,Fruits
+11,Bingo Snacks Product 11,Bingo,5kg,157,no,Snacks
+12,Kurkure Snacks Product 12,Kurkure,100g,159,no,Snacks
+13,Pond's Personal Care Product 13,Pond's,1L,358,yes,Personal Care
+14,Local Farm Fruits Product 14,Local Farm,500g,254,no,Fruits
+15,Lays Snacks Product 15,Lays,1L,282,yes,Snacks
+16,Lizol Household Product 16,Lizol,100g,271,yes,Household
+17,Britannia Bakery Product 17,Britannia,1L,453,no,Bakery
+18,Organic Fresh Fruits Product 18,Organic Fresh,1L,31,yes,Fruits
+19,Fresh Basket Vegetables Product 19,Fresh Basket,500g,457,no,Vegetables
+20,Surf Excel Household Product 20,Surf Excel,5kg,440,yes,Household
+21,Harvest Bakery Product 21,Harvest,500g,49,no,Bakery
+22,Kurkure Snacks Product 22,Kurkure,250ml,271,no,Snacks
+23,Bingo Snacks Product 23,Bingo,500g,352,yes,Snacks
+24,Kurkure Snacks Product 24,Kurkure,500g,248,no,Snacks
+25,Green Farm Vegetables Product 25,Green Farm,5kg,82,yes,Vegetables
+26,Pepsi Beverages Product 26,Pepsi,1kg,176,yes,Beverages
+27,Amul Dairy Product 27,Amul,1kg,105,yes,Dairy
+28,Local Farm Fruits Product 28,Local Farm,500g,353,yes,Fruits
+29,Aavin Dairy Product 29,Aavin,500g,206,no,Dairy
+30,Green Farm Vegetables Product 30,Green Farm,1kg,176,yes,Vegetables
+31,Lizol Household Product 31,Lizol,250ml,40,no,Household
+32,Aavin Dairy Product 32,Aavin,1kg,395,yes,Dairy
+33,Britannia Bakery Product 33,Britannia,1L,320,yes,Bakery
+34,Nestle Dairy Product 34,Nestle,1L,228,no,Dairy
+35,Lays Snacks Product 35,Lays,100g,182,yes,Snacks
+36,Coca-Cola Beverages Product 36,Coca-Cola,500g,476,no,Beverages
+37,Lizol Household Product 37,Lizol,100g,372,yes,Household
+38,Amul Dairy Product 38,Amul,100g,129,yes,Dairy
+39,Nestle Dairy Product 39,Nestle,1kg,264,no,Dairy
+40,Fresh Basket Vegetables Product 40,Fresh Basket,250ml,179,yes,Vegetables
+41,Bingo Snacks Product 41,Bingo,500g,182,yes,Snacks
+42,Local Farm Fruits Product 42,Local Farm,1kg,498,yes,Fruits
+43,Harpic Household Product 43,Harpic,5kg,124,no,Household
+44,Nestle Dairy Product 44,Nestle,500g,279,no,Dairy
+45,Surf Excel Household Product 45,Surf Excel,5kg,34,yes,Household
+46,Green Valley Fruits Product 46,Green Valley,1kg,122,yes,Fruits
+47,Modern Bakery Product 47,Modern,500g,272,yes,Bakery
+48,Local Farm Fruits Product 48,Local Farm,5kg,51,no,Fruits
+49,Lifebuoy Personal Care Product 49,Lifebuoy,1L,448,no,Personal Care
+50,Harvest Bakery Product 50,Harvest,250ml,150,no,Bakery
+51,Nestle Dairy Product 51,Nestle,100g,193,yes,Dairy
+52,Surf Excel Household Product 52,Surf Excel,1kg,200,yes,Household
+53,Fresh Basket Vegetables Product 53,Fresh Basket,500g,289,yes,Vegetables
+54,Local Farm Fruits Product 54,Local Farm,1L,226,yes,Fruits
+55,Local Farm Fruits Product 55,Local Farm,100g,215,no,Fruits
+56,Pond's Personal Care Product 56,Pond's,500g,370,yes,Personal Care
+57,Kurkure Snacks Product 57,Kurkure,1kg,356,yes,Snacks
+58,Modern Bakery Product 58,Modern,1kg,203,no,Bakery
+59,Britannia Bakery Product 59,Britannia,250ml,485,no,Bakery
+60,Local Vendor Vegetables Product 60,Local Vendor,5kg,339,yes,Vegetables
+61,Surf Excel Household Product 61,Surf Excel,500g,265,no,Household
+62,Nestle Dairy Product 62,Nestle,100g,449,no,Dairy
+63,Local Farm Fruits Product 63,Local Farm,500g,403,yes,Fruits
+64,Aavin Dairy Product 64,Aavin,100g,400,yes,Dairy
+65,Modern Bakery Product 65,Modern,500g,250,no,Bakery
+66,Aavin Dairy Product 66,Aavin,1L,335,no,Dairy
+67,Pepsi Beverages Product 67,Pepsi,500g,351,yes,Beverages
+68,Local Farm Fruits Product 68,Local Farm,1kg,42,yes,Fruits
+69,Coca-Cola Beverages Product 69,Coca-Cola,500g,43,yes,Beverages
+70,Local Farm Fruits Product 70,Local Farm,100g,165,yes,Fruits
+71,Green Valley Fruits Product 71,Green Valley,100g,373,yes,Fruits
+72,Pepsi Beverages Product 72,Pepsi,500g,169,yes,Beverages
+73,Organic Fresh Fruits Product 73,Organic Fresh,500g,97,no,Fruits
+74,Coca-Cola Beverages Product 74,Coca-Cola,5kg,471,yes,Beverages
+75,Harpic Household Product 75,Harpic,1kg,143,yes,Household
+76,Surf Excel Household Product 76,Surf Excel,100g,491,no,Household
+77,Aavin Dairy Product 77,Aavin,500g,310,yes,Dairy
+78,Coca-Cola Beverages Product 78,Coca-Cola,250ml,168,no,Beverages
+79,Bingo Snacks Product 79,Bingo,5kg,428,yes,Snacks
+80,Lifebuoy Personal Care Product 80,Lifebuoy,1L,121,no,Personal Care
+81,Organic Fresh Fruits Product 81,Organic Fresh,5kg,228,yes,Fruits
+82,Green Farm Vegetables Product 82,Green Farm,500g,223,no,Vegetables
+83,Nestle Dairy Product 83,Nestle,250ml,330,yes,Dairy
+84,Aavin Dairy Product 84,Aavin,250ml,110,no,Dairy
+85,Frooti Beverages Product 85,Frooti,5kg,305,yes,Beverages
+86,Modern Bakery Product 86,Modern,1kg,439,no,Bakery
+87,Surf Excel Household Product 87,Surf Excel,5kg,41,yes,Household
+88,Dove Personal Care Product 88,Dove,250ml,425,no,Personal Care
+89,Green Valley Fruits Product 89,Green Valley,500g,126,no,Fruits
+90,Modern Bakery Product 90,Modern,5kg,130,no,Bakery
+91,Lizol Household Product 91,Lizol,100g,292,yes,Household
+92,Modern Bakery Product 92,Modern,250ml,121,yes,Bakery
+93,Lays Snacks Product 93,Lays,1L,34,no,Snacks
+94,Harvest Bakery Product 94,Harvest,250ml,323,yes,Bakery
+95,Britannia Bakery Product 95,Britannia,1L,205,no,Bakery
+96,Modern Bakery Product 96,Modern,5kg,90,no,Bakery
+97,Amul Dairy Product 97,Amul,1L,85,no,Dairy
+98,Pond's Personal Care Product 98,Pond's,100g,485,yes,Personal Care
+99,Coca-Cola Beverages Product 99,Coca-Cola,500g,393,yes,Beverages
+100,Fresh Basket Vegetables Product 100,Fresh Basket,500g,239,no,Vegetables
